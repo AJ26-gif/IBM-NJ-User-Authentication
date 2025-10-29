@@ -10,7 +10,8 @@
     "export": "next build",
     "deploy": "npm run export && touch out/.nojekyll"
   },
-  "homepage": "https://github.com/AJ26-gif/IBM-NJ-User-Authentication",
+  "homepage": "https://aj26-gif.github.io/IBM-NJ-User-Authentication",
+",
   "dependencies": {
     "@headlessui/react": "^2.2.0",
     "@iconify/icons-ion": "^1.2.10",
